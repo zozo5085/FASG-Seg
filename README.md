@@ -21,14 +21,13 @@ conda activate fasg
 ```
 **3. Install PyTorch and dependencies**
 ```bash
+**3. Install PyTorch and dependencies**
+```bash
 # Install PyTorch (Please adjust the CUDA version according to your machine)
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 
-# Install OpenAI CLIP
-pip install git+[https://github.com/openai/CLIP.git](https://github.com/openai/CLIP.git)
-
-# Install other required packages
-pip install numpy PyYAML Pillow opencv-python scikit-learn
+# Install the rest of the required dependencies
+pip install -r requirements.txt
 ```
 
 **📂 Data Preparation**
