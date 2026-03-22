@@ -26,3 +26,10 @@ The code has been tested with Python 3.8 and PyTorch 1.12+.
 ```bash
 git clone [https://github.com/zozo5085/FASG-Seg.git](https://github.com/zozo5085/FASG-Seg.git)
 cd FASG-Seg
+
+
+**2. Create a virtual environment**
+conda create -n fasg python=3.8 -y
+conda activate fasg
+
+**3. Install PyTorch and dependencies**
