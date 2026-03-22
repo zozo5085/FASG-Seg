@@ -1,6 +1,5 @@
 # FASG-Seg: Frequency-Aware Feature Refinement with Contextual Feature Propagation for Unsupervised Semantic Segmentation
 
-> **News:** This paper has been submitted to the **IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC)**.
 
 Official PyTorch implementation of **FASG-Seg**.
 
