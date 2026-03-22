@@ -19,8 +19,7 @@ cd FASG-Seg
 conda create -n fasg python=3.8 -y
 conda activate fasg
 ```
-**3. Install PyTorch and dependencies**
-```bash
+
 **3. Install PyTorch and dependencies**
 ```bash
 # Install PyTorch (Please adjust the CUDA version according to your machine)
